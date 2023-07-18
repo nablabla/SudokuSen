@@ -1,0 +1,35 @@
+- Menu
+
+- load puzzle
+- generate puzzle
+Einfach: only viual
+Medium: only visual
+Hard: solvable by only annotation logic
+Very Hard: solvable by annotations and X/Y-Wings, simple colouring
+Extreme: solvable without extreme Strategies
+Ultra: guesswork
+
+- Grid
+- numbers
+- annotations
+- center annotations
+- coloring cells
+- coloring annotations
+
+- menu buttons
+- number buttons
+- annotation buttons
+- - select cells
+- center annotation button
+- coloring buttons
+- clear colors
+- remove annotations
+
+- check validity
+
+- settings page
+- highlights (dark/light)
+- auto remove annotations
+
+
+- dark theme
